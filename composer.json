@@ -1,5 +1,5 @@
 {
-    "name": "lastcaveman/telescope",
+    "name": "lastcaveman/monitor",
     "description": "An elegant debug assistant for the Laravel framework.",
     "keywords": ["laravel", "monitoring", "debugging"],
     "license": "MIT",
