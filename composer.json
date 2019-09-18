@@ -5,12 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
-        },
-        {
-            "name": "Mohamed Said",
-            "email": "mohamed@laravel.com"
+            "name": "lastcaveman",
+            "email": "caveman.last@gmail.com"
         }
     ],
     "require": {
